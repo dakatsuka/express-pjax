@@ -1,0 +1,22 @@
+{
+  "name": "express-pjax",
+  "description": "Express middleware for Pjax.",
+  "version": "0.0.1",
+  "homepage": "http://github.com/dakatsuka/express-pjax",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dakatsuka/express-pjax.git"
+  },
+  "keywords": ["express", "pjax"],
+  "author": "Dai Akatsuka <d.akatsuka@gmail.com>",
+  "bugs": {
+    "url": "http://github.com/dakatsuka/express-pjax/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/dakatsuka/express-pjax/raw/master/MIT-LICENSE"
+    }
+  ],
+  "main": "./pjax.js"
+}
