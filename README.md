@@ -31,6 +31,10 @@ app.get('/foo', function(req, res) {
 });
 ```
 
+## DEMO
+
+https://github.com/abdelsaid/express-pjax-demo
+
 ## TODO
 
 * Support redirect.
