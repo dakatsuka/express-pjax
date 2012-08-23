@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/dakatsuka/express-pjax.png)](http://travis-ci.org/dakatsuka/express-pjax)
 # express-pjax
 
 Express middleware for Pjax.
