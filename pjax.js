@@ -7,7 +7,7 @@ module.exports = function() {
     res.renderPjax = function(view, options, fn) {
       if (req.pjax) {
         if (options) {
-          options.layout = false;
+          options.layout = options.pjaxLayout || false;
         } else {
           options = {};
           options.layout = false;
